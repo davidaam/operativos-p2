@@ -6,6 +6,7 @@ int main(int argc, char* argv[]) {
 	char* dir;
 	char* out;
 	int n,m,i,j;
+	FILE* fout;
 	// Parse parametros
 	if (strcmp(argv[1],"-d") == 0) {
 		// De una vez hago cd al directorio
@@ -87,20 +88,19 @@ int main(int argc, char* argv[]) {
 			// Cierro el output
 			close(pipes[i][1]);
 			// Creo un buffer para leer del pipe
-			int buffer_size = 128;
+			int buffer_size = 1024;
 			char* buffer = (char*)malloc(sizeof(char)*buffer_size);
-			FILE* fout = fopen(out,"w");
+			fout = fopen(out,"w");
 			int bytes_pipe;
 			// Mientras queden datos en el pipe leo y voy escribiendo en el archivo de salida
 			do {
-				bytes_pipe = read(pipes[i][0], buffer, buffer_size);
-				printf("Bytes read: %d\n",bytes_pipe);
-				if (bytes_pipe > 0)
-					fwrite(buffer, 1, strlen(buffer),fout);
 				// Limpio el buffer
 				memset(buffer, 0, strlen(buffer));
+				bytes_pipe = read(pipes[i][0], buffer, buffer_size);
+				printf("Bytes read: %d\n",bytes_pipe);
+				printf("%s",buffer);
+				fwrite(buffer, 1, buffer_size,fout);
 			} while (bytes_pipe > 0);
-			fwrite("\0",1,1,fout);
 		}
 		else {
 			// Error
@@ -111,5 +111,7 @@ int main(int argc, char* argv[]) {
 		// WHY 256 ? 
 		// printf("Child: %d\n",child_ntexts[i] % 256);
 	}
+	fwrite("\0",1,1,fout);
+	fclose(fout);
 	return 0;
 }
