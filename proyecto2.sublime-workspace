@@ -1,0 +1,1202 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"def",
+				"def	#ifndef … #define … #endif"
+			],
+			[
+				"child_",
+				"child_ntexts"
+			],
+			[
+				"buff",
+				"buffer_size"
+			],
+			[
+				"Arra",
+				"ArrayList"
+			],
+			[
+				"union",
+				"unionRange"
+			],
+			[
+				"st",
+				"st	static"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"Thread",
+				"ThreadMap"
+			],
+			[
+				"fp",
+				"fphijo"
+			],
+			[
+				"mut",
+				"mutex"
+			],
+			[
+				"Th",
+				"ThreadReduce"
+			],
+			[
+				"imp",
+				"imprimir_lpar"
+			],
+			[
+				"imprim",
+				"imprimir_lpar"
+			],
+			[
+				"impr",
+				"imprimir_par"
+			],
+			[
+				"cr",
+				"crearPersona"
+			],
+			[
+				"npr",
+				"nprocs_map"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"guarda",
+				"guardar_lpar"
+			],
+			[
+				"agr",
+				"agregarNodo"
+			],
+			[
+				"get",
+				"getElementsByName〔function〕"
+			],
+			[
+				"csrf",
+				"csrf_exempt"
+			],
+			[
+				"HttpR",
+				"HttpResponse〔class〕"
+			],
+			[
+				"TEMPLA",
+				"TEMPLATE_CONTEXT_PROCESSORS"
+			],
+			[
+				"unset",
+				"unset〔keyword〕"
+			],
+			[
+				"catego",
+				"categoria_id"
+			],
+			[
+				"geco",
+				"geco_path"
+			],
+			[
+				"mate",
+				"materia_content"
+			],
+			[
+				"displa",
+				"display_errors"
+			],
+			[
+				"ionic-button",
+				"ionic-css-button-full	ionic-css-button"
+			],
+			[
+				"ion-na",
+				"ionic-nav-view	ionic-nav-view"
+			],
+			[
+				"unse",
+				"unserialize〔function〕"
+			],
+			[
+				"base64",
+				"base64_encode"
+			],
+			[
+				"zf-",
+				"zf-offcanvas	ZURB Foundation 5 Offcanvas"
+			],
+			[
+				"select",
+				"selectHour"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"vdroz",
+				"vdroz"
+			],
+			[
+				"ma",
+				"max_length"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"A",
+				"AssertionError〔class〕"
+			],
+			[
+				"get_ord",
+				"get_order_notes〔function〕"
+			],
+			[
+				"H",
+				"HttpRequest〔class〕"
+			],
+			[
+				"Fore",
+				"ForeignKey"
+			],
+			[
+				"this",
+				"this"
+			],
+			[
+				"atta",
+				"attachOptions"
+			],
+			[
+				"normal",
+				"normalize_url"
+			],
+			[
+				"googles",
+				"google_start_url"
+			],
+			[
+				"ke",
+				"keyword"
+			],
+			[
+				"results",
+				"results_per_page"
+			],
+			[
+				"resul",
+				"results_per_page"
+			],
+			[
+				"Google",
+				"GoogleSearch"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"csv",
+				"csv"
+			],
+			[
+				"nex",
+				"nextLink"
+			],
+			[
+				"deduci",
+				"deducible_minimo"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"forma",
+				"formatBalboa"
+			],
+			[
+				"year",
+				"yearsRange"
+			],
+			[
+				"curr",
+				"currentYear"
+			],
+			[
+				"an",
+				"ano_carro"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"n",
+				"nombre"
+			],
+			[
+				"s",
+				"s"
+			],
+			[
+				"heap",
+				"heappush"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"user",
+				"user_agents"
+			],
+			[
+				"m",
+				"m"
+			],
+			[
+				"long",
+				"long"
+			],
+			[
+				"monsters",
+				"monsters_str"
+			],
+			[
+				"proxies",
+				"proxies"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_assoc"
+			],
+			[
+				"pro",
+				"proxies"
+			],
+			[
+				"class",
+				"class"
+			],
+			[
+				"fact",
+				"fact"
+			],
+			[
+				"bisec",
+				"bisect_left"
+			],
+			[
+				"mat",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"exist",
+				"existe_cargo"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"acc",
+				"acc_info"
+			],
+			[
+				"error",
+				"error_reporting"
+			],
+			[
+				"rep",
+				"report_name"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "misc.h",
+			"settings":
+			{
+				"buffer_size": 386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "misc.c",
+			"settings":
+			{
+				"buffer_size": 2881,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.c",
+			"settings":
+			{
+				"buffer_size": 3411,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/david/.sublime/history/home/david/operativos/proyecto2/2015-06-14_00.12.27.main.c",
+			"settings":
+			{
+				"buffer_size": 3790,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "a.sh",
+			"settings":
+			{
+				"buffer_size": 170,
+				"line_ending": "Unix",
+				"name": "#! /bin/bash"
+			}
+		},
+		{
+			"file": "Makefile",
+			"settings":
+			{
+				"buffer_size": 155,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "files.sh",
+			"settings":
+			{
+				"buffer_size": 132,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Java/JavaC.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/C++11/C++11.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"last_filter": "color si",
+		"selected_items":
+		[
+			[
+				"color si",
+				"Colorsublime: Browse Themes"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"diff",
+				"Local History: Incremental Diff"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"sidebar",
+				"Git (SideBarGit): Git GUI"
+			],
+			[
+				"github",
+				"Github: Plugin Settings"
+			],
+			[
+				"beauti",
+				"HTMLBeautify"
+			],
+			[
+				"django",
+				"Django: Check"
+			],
+			[
+				"instla",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/david/operativos/proyecto2",
+		"/home/david/operativos/proyecto2/2"
+	],
+	"file_history":
+	[
+		"/home/david/operativos/proyecto2/MiCuento.man",
+		"/home/david/operativos/proyecto2/gianni/main.c",
+		"/home/david/operativos/proyecto2/gianni/funciones.c",
+		"/home/david/operativos/proyecto2/main",
+		"/home/david/operativos/proyecto2/free.h",
+		"/home/david/operativos/proyecto2/free.c",
+		"/home/david/operativos/proyecto2/main.c",
+		"/home/david/operativos/proyecto2/2/2 7",
+		"/home/david/operativos/proyecto2/hola",
+		"/home/david/operativos/proyecto2/4/4 1",
+		"/home/david/Desktop/maraton/out",
+		"/home/david/Desktop/maraton/libro/ej1.cpp",
+		"/home/david/Desktop/maraton/scuba",
+		"/home/david/Desktop/maraton/Scubadiv.java",
+		"/home/david/Desktop/maraton/scubacopiado.cpp",
+		"/home/david/Desktop/maraton/gss3_test",
+		"/home/david/flowviolento/all",
+		"/home/david/flowviolento/All.java",
+		"/home/david/flowviolento/all.py",
+		"/home/david/flowviolento/Grafo.java",
+		"/home/david/flowviolento/boss",
+		"/home/david/Desktop/maraton/scubadiv.c",
+		"/home/david/Desktop/maraton/scubadiv2.py",
+		"/home/david/Desktop/maraton/scubadiv.py",
+		"/home/david/Desktop/maraton/GSS3.java",
+		"/media/Portable HDD/Otros/Mis historiales de conversación/enero 2010/verovero_0219@hotmail.com.ple",
+		"/home/david/operativos/proyecto1/procesos/data",
+		"/home/david/operativos/proyecto1/thread.c",
+		"/home/david/operativos/proyecto1/procesos/reduce.c",
+		"/home/david/operativos/proyecto1/data",
+		"/home/david/operativos/proyecto1/mapreduce_T",
+		"/home/david/operativos/proyecto1/Makefile~",
+		"/home/david/operativos/proyecto1/out",
+		"/home/david/operativos/proyecto1/valg",
+		"/home/david/operativos/proyecto1/reduce.c",
+		"/home/david/operativos/proyecto1/14226",
+		"/home/david/operativos/proyecto1/4264",
+		"/home/david/operativos/proyecto1/main.c",
+		"/home/david/operativos/proyecto1/13681",
+		"/home/david/operativos/proyecto1/8933",
+		"/home/david/operativos/proyecto1/4511",
+		"/home/david/operativos/proyecto1/790",
+		"/home/david/operativos/proyecto1/397",
+		"/home/david/operativos/proyecto1/21188",
+		"/home/david/operativos/proyecto1/28364",
+		"/home/david/operativos/proyecto1/21581",
+		"/home/david/operativos/proyecto1/21580",
+		"/home/david/operativos/proyecto1/pid_t* procesos = (pid_t*)malloc(n*sizeof(pid_t));",
+		"/home/david/operativos/proyecto1/pid.c",
+		"/home/david/operativos/t1def/SOAJ15T1/misc.c",
+		"/home/david/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/home/david/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/david/.config/sublime-text-3/Packages/User/SideBarGit.sublime-settings",
+		"/home/david/.config/sublime-text-3/Packages/User/Github Tools.sublime-settings",
+		"/usr/local/lib/python3.4/dist-packages/open_facebook/api.py",
+		"/var/www/html/pictune/django_app/app/views.py",
+		"/var/www/html/pictune/fb_share.html",
+		"/var/www/html/pictune/django_app/app/models.py",
+		"/var/www/html/pictune/django_app/django_app/settings.py",
+		"/usr/local/lib/python3.4/dist-packages/django_facebook/api.py",
+		"/var/www/html/pictune/django_app/django_app/urls.py",
+		"/home/david/operativos/proyecto1/misc.h",
+		"/home/david/operativos/proyecto1/misc.c",
+		"/home/david/operativos/proyecto1/map.c",
+		"/usr/local/lib/python3.4/dist-packages/facebook.py",
+		"/var/www/html/pictune/django_app/app/fb_share.html",
+		"/var/www/html/pictune/django_app/django_app/templates/fb_share.html",
+		"/var/www/html/pictune/django_app/django_app/views.py",
+		"/home/david/edubot/edu.js",
+		"/home/david/edubot/forms2.json",
+		"/home/david/edubot/later.json",
+		"/home/david/edubot/test.json",
+		"/var/www/html/nocaptcha.html",
+		"/usr/local/lib/python3.4/dist-packages/django_facebook/models.py",
+		"/home/david/edubot/forms.json",
+		"/usr/local/lib/python3.4/dist-packages/django/contrib/__init__.py",
+		"/usr/local/lib/python3.4/dist-packages/django/contrib/contenttypes/__init__.py",
+		"/tmp/fz3temp-1/db.php",
+		"/tmp/fz3temp-1/error.log",
+		"/tmp/fz3temp-1/admin.php",
+		"/tmp/fz3temp-1/send_reports.php",
+		"/home/david/tmp/class-wc-api-client.php",
+		"/var/www/html/tutor/www/templates/tutor-tabs.html",
+		"/var/www/html/tutor/www/templates/tutor-tutorings.html",
+		"/var/www/html/tutor/www/templates/student-tutorings.html",
+		"/var/www/html/tutor/www/js/app.js",
+		"/var/www/html/api/index.php",
+		"/var/www/html/tutor/www/index.html",
+		"/var/www/html/geco/autoupload.php",
+		"/var/www/html/tutor/www/templates/student-selectTutor.html",
+		"/var/www/html/tutor/www/templates/student-tutoringOpts.html",
+		"/var/www/html/tutor/www/templates/student-find.html",
+		"/var/www/html/tutor/www/templates/demo-account.html",
+		"/var/www/html/tests/tutor/client/templates/confirm.html",
+		"/tmp/wp-config.php",
+		"/tmp/fz3temp-1/autoupload.php",
+		"/home/david/Desktop/maraton/fibsum.py",
+		"/var/www/html/tutor/www/templates/student-quickTutoring.html",
+		"/var/www/html/tutor/www/js/controllers.js",
+		"/var/www/html/tutor/www/templates/student-paymentConfirmed.html",
+		"/var/www/html/tests/tutor/build/assets/js/app.js",
+		"/var/www/html/tests/tutor/client/assets/js/app.js",
+		"/var/www/html/tutor/www/templates/student-dash.html",
+		"/var/www/html/tutor/www/templates/tab-selectTutor.html",
+		"/var/www/html/tests/tutor/build/templates/vdroz.html",
+		"/var/www/html/tests/tutor/build/templates/home.html",
+		"/var/www/html/tutor/www/templates/student-tabs.html",
+		"/var/www/html/tutor/www/templates/tab-account.html",
+		"/var/www/html/tests/tutor/client/templates/vdroz.html",
+		"/home/david/Desktop/maraton/mushroom_test",
+		"/home/david/Desktop/maraton/mushroom.py",
+		"/var/www/html/tutor/www/css/style.css",
+		"/var/www/html/tutor/www/templates/tab-chats.html",
+		"/var/www/html/tutor/www/templates/students-selectTutor.html",
+		"/var/www/html/tutor/www/templates/tabs.html",
+		"/tmp/fz3temp-1/.htaccess",
+		"/home/david/Desktop/maraton/karafs",
+		"/home/david/Desktop/maraton/karafs.py",
+		"/var/www/html/tutor/scss/ionic.app.scss",
+		"/var/www/html/tutor/www/templates/tab-tutorings.html",
+		"/var/www/html/tutor/www/templates/tab-find.html",
+		"/var/www/html/tutor/www/templates/tab-vdroz.html",
+		"/var/www/html/tests/tutor/client/templates/paymentConfirmed.html",
+		"/var/www/html/tutor/www/js/services.js",
+		"/var/www/html/tutor/www/templates/tab-dash.html",
+		"/var/www/html/tests/tutor/client/templates/tutor.html",
+		"/var/www/html/tests/tutor/client/templates/login.html",
+		"/var/www/html/tests/tutor/client/templates/home.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/var/www/html/tutor/www",
+			"/var/www/html/tests/tutor/build,/var/www/html/tests/tutor/api",
+			"/var/www/html/tests/tutor/build",
+			"/var/www/html/tests/tutor/api/vendor/paypal/rest-api-sdk-php/lib/PayPal",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scand",
+			"scanD",
+			"scan",
+			"arc_hijo",
+			"free",
+			"child_n",
+			"list",
+			"seqF",
+			"printf",
+			"fopen",
+			"malloc",
+			"itoa",
+			"FILE*",
+			"size",
+			"int[]",
+			"HashSet<int[]>",
+			"int[]",
+			"0,0,",
+			"0,0",
+			"-INF",
+			"inf",
+			"[0]",
+			"System.out.println",
+			"1010",
+			"80",
+			"22",
+			"1000",
+			"160",
+			"45",
+			"1020",
+			"crearP",
+			"malloc",
+			"fp",
+			"lreduce",
+			"agregarN",
+			"fclose",
+			"fopen",
+			");\n",
+			"fopen",
+			"Kastradora",
+			"Sinyuca",
+			"Ekaterina",
+			"Polvorosa",
+			"][",
+			"printf",
+			"hace",
+			"printf",
+			");",
+			"printf",
+			"t->trabajos",
+			"sem_",
+			"mutex",
+			"sem_",
+			"stdo",
+			"lreduce",
+			";\n",
+			"thread_t",
+			"out",
+			"lreduce",
+			"compare",
+			"comparePa",
+			"strcmp",
+			"strcomp",
+			"lmap",
+			"imprimir_p",
+			"sort_lista",
+			"crearPersona",
+			"ltm",
+			"au",
+			"crearPer",
+			"swit",
+			"free",
+			"f",
+			"free",
+			"strtok",
+			"leerL",
+			"freeAr",
+			"freeLi",
+			"			\n",
+			"red",
+			"leerPer",
+			"parseLinea",
+			"ldef",
+			"nuevoNo",
+			"nuevoNodo",
+			"crearPar",
+			"sort",
+			"crearPa",
+			"nuevoNodo",
+			"crearPar",
+			"crearPa",
+			"Par",
+			"sort_lpar",
+			"sort_",
+			"sort_str",
+			"sort_lstr",
+			"CHAR",
+			"sort_par",
+			"sort_str",
+			"->sig",
+			"nuevoNo",
+			"ini",
+			"l->head",
+			"->ini",
+			"side_bar",
+			"sort",
+			"val",
+			"primero",
+			"encode_p",
+			"open(",
+			"def put",
+			"put_",
+			"urllib2",
+			"id",
+			"js.src",
+			"your",
+			"customuser",
+			"generic",
+			"submit,",
+			"submit",
+			"submit)",
+			"profile_url",
+			"user_id",
+			"profile_url",
+			"imagesurf",
+			"wait(",
+			"submit)",
+			"edit_click"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"HashSet<Integer[]>",
+			"Integer[]",
+			"println",
+			"MAX_CYL",
+			"MAX_NIT",
+			"MAX_OX",
+			"1010",
+			"200",
+			"50",
+			"1100",
+			"Juan",
+			"Salomon",
+			"Jose",
+			"Petra",
+			"] [",
+			"parte",
+			"pthread_t",
+			"leerPersona",
+			"lmap",
+			"STR",
+			"head",
+			"->head",
+			"ini",
+			"student",
+			"tutor-",
+			"tutor.",
+			"tutor",
+			"overlay=\"true\" overlay-close=\"true\"",
+			"/<strong>{{tutoring.course}}</strong>",
+			"tutoring",
+			"Tutoring",
+			"tutoring",
+			"$data[",
+			"",
+			"''",
+			"opencv",
+			"= array\\($1\\)",
+			"SRC_DIR",
+			"$(JAVA_DIR)/",
+			"$(JAVA_DIR)",
+			"1",
+			"AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAa",
+			"sieve",
+			"",
+			"\n",
+			"$id"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "misc.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								379,
+								379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "misc.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2881,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2235,
+								2235
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1360.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3411,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								243,
+								243
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 102.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/david/.sublime/history/home/david/operativos/proyecto2/2015-06-14_00.12.27.main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3424,
+								3424
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C Improved/C Improved.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1469.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "a.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 170,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#! /bin/bash",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "Makefile",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 155,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								155,
+								155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Makefile/Makefile.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "files.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 132,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								107,
+								107
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CppYCM.2":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto2.sublime-project",
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/edubot/edubot.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 241.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,27 @@
+.\" Man de MiCuento
+.TH man 8 "19 Jun 2015" "1.0" "MiCuento man page"
+.SH NAME
+MiCuento \- crea una historia de 'literatura aleatoria', tomando textos de distintas carpetas
+y mezclándolos
+.SH SYNOPSIS
+MiCuento toma textos de distintas carpetas aleatoriamente y los mezcla para generar una historia de \
+literatura aleatoria.
+./MiCuento [-d directorio] n m salida
+.SH DESCRIPTION
+MiCuento toma textos de distintas carpetas aleatoriamente y los mezcla para generar una historia de \
+literatura aleatoria. Para ello crea procesos hijo que se encargan de tomar textos aleatoriamente de \
+una carpeta en particular (elegidas también aleatoriamente). El resultado es guardado en un archivo \
+indicado por el usuario
+.SH OPTIONS
+.SS \-d " " \fIdirectorio\fR
+Directorio donde estan las carpetas con los textos
+.SS n
+Número de hijos a crear
+.SS m
+Número de textos máximo a procesar por cada hijo 
+.SS salida
+Ruta del archivo donde desea guardar la salida, si no existe lo crea, si existe lo sobreescribe
+.SH BUGS
+No se conocen bugs.
+.SH AUTHOR
+David Atias (12-10771)
